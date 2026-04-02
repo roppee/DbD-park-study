@@ -1,0 +1,15 @@
+{
+  "name": "The Fog Academy",
+  "short_name": "The Fog Academy",
+  "start_url": "the_fog_academy.html",
+  "display": "standalone",
+  "background_color": "#0a0608",
+  "theme_color": "#0a0608",
+  "icons": [
+    {
+      "src": "the_fog_academy_icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
